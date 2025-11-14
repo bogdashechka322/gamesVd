@@ -23,3 +23,4 @@ dev = [
 [project.scripts]
 VD-games = "VD_games.scripts.VD_main:main"
 VD-even = "VD_games.scripts.VD_even:main"
+brain-calc = "VD_games.scripts.brain_calc:play_calc"
